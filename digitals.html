@@ -1,53 +1,235 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Digitals | Dane</title>
+  <title>Resume | Dane Fortun</title>
+  <meta name="description" content="Resume page for Dane Fortun featuring education, coursework, projects, leadership, awards, and technical skills.">
   <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="site-shell">
 <header class="site-header">
-  <div class="container">
-    <a class="wordmark" href="index.html"><h1>DANE</h1></a>
-    <p class="top-note">MODEL PORTFOLIO TEMPLATE</p>
-    <nav class="navbar">
-      <a class="" href="index.html">PORTFOLIO</a>
-      <a class="" href="contact.html">CONTACT</a>
-      <a class="active" href="digitals.html">DIGITALS</a>
-      <a href="https://www.instagram.com/danefortun" target="_blank" rel="noopener">INSTAGRAM</a>
+  <div class="container header-inner">
+    <a class="wordmark" href="index.html">DANE FORTUN</a>
+    <nav class="navbar" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a class="active" href="digitals.html">Resume</a>
+      <a href="contact.html">Contact</a>
+      <a href="assets/Dane-Fortun-Resume.pdf" target="_blank" rel="noopener">PDF Resume</a>
     </nav>
   </div>
 </header>
-<main>
 
-<section class="section fade-in">
-  <h2>DIGITALS</h2>
-  <p class="section-sub">This page is ready for your future comp-card or measurements layout. For now it includes the visible materials from the original project in a static format.</p>
-</section>
-<section class="digitals-grid fade-in">
-  <article class="digital-card">
-    <img src="assets/DANESDIGITALS.png" alt="Dane digitals sheet">
-    <p class="digital-caption">Current digitals sheet</p>
-  </article>
-  <article class="digital-card">
-    <img src="assets/danebw2.png" alt="Black and white portrait">
-    <p class="digital-caption">Placeholder panel — swap with updated front-facing digitals later</p>
-  </article>
-  <article class="digital-card">
-    <img src="assets/danewhitebuttonup.png" alt="White shirt editorial">
-    <p class="digital-caption">Placeholder panel — easy to replace with clean profile or side shots</p>
-  </article>
-  <article class="digital-card">
-    <img src="assets/danelinkedin.jpg" alt="Suit portrait">
-    <p class="digital-caption">Placeholder panel — ready for future measurements or agency info block</p>
-  </article>
-</section>
+<main class="resume-page container">
+  <section class="resume-hero fade-in">
+    <div>
+      <p class="eyebrow">Resume</p>
+      <h1>Education, coursework, skills, projects, leadership, and awards.</h1>
+      <p class="hero-text">This page turns your résumé into a scannable website format so visitors can move quickly from academics to technical work to leadership experience.</p>
+    </div>
+    <a class="button" href="assets/Dane-Fortun-Resume.pdf" target="_blank" rel="noopener">Open PDF resume</a>
+  </section>
 
+  <section id="education" class="resume-section fade-in">
+    <div class="split-heading">
+      <div>
+        <p class="eyebrow">Education</p>
+        <h2>Universities and grades</h2>
+      </div>
+    </div>
+    <div class="resume-grid two-col">
+      <article class="info-card">
+        <h3>Drexel University</h3>
+        <p class="info-sub">Philadelphia, PA</p>
+        <ul class="detail-list">
+          <li>B.S. in Computer Information and Security</li>
+          <li>Concentration in Computing Security</li>
+          <li>Anticipated graduation: May 2028</li>
+          <li>GPA: 3.66</li>
+        </ul>
+      </article>
+      <article class="info-card">
+        <h3>Northampton Community College</h3>
+        <p class="info-sub">Bethlehem, PA</p>
+        <ul class="detail-list">
+          <li>A.A.S. in Information Security</li>
+          <li>August 2022 — May 2025</li>
+          <li>Graduated with honors</li>
+          <li>Cumulative GPA: 3.63</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="resume-section fade-in">
+    <div class="split-heading">
+      <div>
+        <p class="eyebrow">Coursework</p>
+        <h2>Relevant classes</h2>
+      </div>
+    </div>
+    <div class="chip-grid">
+      <span class="chip">Ethical Hacking and Pen Testing</span>
+      <span class="chip">IT Security Policies II</span>
+      <span class="chip">IT Security II</span>
+      <span class="chip">Open Server II</span>
+      <span class="chip">Computer Forensics I</span>
+      <span class="chip">Mobile Applications</span>
+      <span class="chip">Network Administration II</span>
+      <span class="chip">Social Aspects of Information Systems</span>
+    </div>
+  </section>
+
+  <section class="resume-section fade-in">
+    <div class="split-heading">
+      <div>
+        <p class="eyebrow">Technical skills</p>
+        <h2>Languages, tools, platforms, and concepts</h2>
+      </div>
+    </div>
+    <div class="resume-grid four-col">
+      <article class="info-card compact">
+        <h3>Languages</h3>
+        <p>Python, JavaScript, PHP, HTML/CSS</p>
+      </article>
+      <article class="info-card compact">
+        <h3>Security tools</h3>
+        <p>Metasploit, Burp Suite, Nmap, Wireshark, Netcat, Hashcat, John the Ripper</p>
+      </article>
+      <article class="info-card compact">
+        <h3>Systems</h3>
+        <p>Linux, Kali, Ubuntu, Git, REST APIs, SQL Databases</p>
+      </article>
+      <article class="info-card compact">
+        <h3>Concepts</h3>
+        <p>Pen testing, privilege escalation, threat modeling, VLANs, ACLs, credential exploitation</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="resume-section fade-in">
+    <div class="split-heading">
+      <div>
+        <p class="eyebrow">Experience</p>
+        <h2>Projects and applied work</h2>
+      </div>
+    </div>
+    <div class="stack-grid">
+      <article class="experience-card">
+        <div class="experience-head">
+          <div>
+            <h3>Linux Penetration Testing Lab</h3>
+            <p class="info-sub">Penetration Tester • Philadelphia, PA</p>
+          </div>
+          <span>March 2026</span>
+        </div>
+        <ul class="detail-list">
+          <li>Developed Python automation scripts to streamline vulnerability exploitation workflows and reduce manual testing time.</li>
+          <li>Engineered custom privilege escalation exploits targeting SUID misconfigurations and weak sudo policies.</li>
+          <li>Automated credential harvesting and hash cracking pipelines using Python.</li>
+          <li>Documented findings with proof-of-concept code and remediation recommendations.</li>
+        </ul>
+      </article>
+
+      <article class="experience-card">
+        <div class="experience-head">
+          <div>
+            <h3>BiteSwipe</h3>
+            <p class="info-sub">Software Developer, Co-Founder • Philadelphia, PA</p>
+          </div>
+          <span>Oct 2025 — Mar 2026</span>
+        </div>
+        <ul class="detail-list">
+          <li>Built a multi-page full-stack web application using HTML, CSS, JavaScript, and PHP with 12+ user-facing features.</li>
+          <li>Identified and remediated SQL injection, XSS, and improper input validation issues.</li>
+          <li>Improved application reliability through systematic debugging of 30+ bugs.</li>
+        </ul>
+      </article>
+
+      <article class="experience-card">
+        <div class="experience-head">
+          <div>
+            <h3>Demo Enterprise Network</h3>
+            <p class="info-sub">Team Lead • Bethlehem, PA</p>
+          </div>
+          <span>Oct 2023 — Jan 2024</span>
+        </div>
+        <ul class="detail-list">
+          <li>Designed a segmented enterprise network architecture using VLANs and access control mechanisms.</li>
+          <li>Configured routing logic, ACLs, and inter-VLAN communication for secure, scalable connectivity.</li>
+          <li>Implemented redundancy and high-availability configurations to improve resilience and reduce lateral movement risk.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="resume-section fade-in">
+    <div class="resume-grid two-col">
+      <article>
+        <div class="split-heading no-gap">
+          <div>
+            <p class="eyebrow">Leadership</p>
+            <h2>Student and campus impact</h2>
+          </div>
+        </div>
+        <div class="stack-grid">
+          <article class="info-card">
+            <h3>Student Senate President</h3>
+            <p class="info-sub">Northampton Community College • Sep 2024 — May 2025</p>
+            <ul class="detail-list">
+              <li>Secured a $35,000 State Farm grant to improve student life through student surveys.</li>
+              <li>Led initiatives to improve disability accessibility on campus.</li>
+              <li>Increased student engagement by 300% through outreach, restructuring, and programming.</li>
+            </ul>
+          </article>
+          <article class="info-card">
+            <h3>Competitive Esports</h3>
+            <p class="info-sub">Sep 2022 — Present</p>
+            <ul class="detail-list">
+              <li>Top 0.05% in North America in VALORANT across multiple seasons.</li>
+              <li>Top 2,000 globally in Fortnite out of millions of players.</li>
+              <li>Demonstrated decision-making, communication, analysis, and composure under pressure.</li>
+            </ul>
+          </article>
+        </div>
+      </article>
+
+      <article>
+        <div class="split-heading no-gap">
+          <div>
+            <p class="eyebrow">Honors and awards</p>
+            <h2>Recognition</h2>
+          </div>
+        </div>
+        <div class="awards-list">
+          <div class="award-item"><strong>Dean’s List</strong><span>Drexel University, 2026</span></div>
+          <div class="award-item"><strong>Pennoni Honors College</strong><span>Drexel University, 2025 — Present</span></div>
+          <div class="award-item"><strong>Drexel Promise</strong><span>Half-tuition scholarship, 2025 — Present</span></div>
+          <div class="award-item"><strong>Phi Theta Kappa Scholarship</strong><span>Drexel University, 2025 — Present</span></div>
+          <div class="award-item"><strong>Club Officer of the Year</strong><span>Northampton Community College, 2025</span></div>
+          <div class="award-item"><strong>Dean’s List</strong><span>Northampton Community College, 2024</span></div>
+        </div>
+      </article>
+    </div>
+  </section>
 </main>
-<footer class="site-footer">STATIC HTML TEMPLATE READY FOR SIMPLE WEB HOSTING</footer>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p>© <span id="year"></span> Dane Fortun</p>
+    <div class="footer-links">
+      <a href="https://linkedin.com/in/danefortun" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/danefortun" target="_blank" rel="noopener">GitHub</a>
+      <a href="mailto:df664@drexel.edu">df664@drexel.edu</a>
+    </div>
+  </div>
+</footer>
 </div>
 <script src="main.js"></script>
 </body>
