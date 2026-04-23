@@ -1,53 +1,83 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact | Dane</title>
+  <title>Contact | Dane Fortun</title>
+  <meta name="description" content="Contact page for Dane Fortun.">
   <link rel="icon" href="assets/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="site-shell">
 <header class="site-header">
-  <div class="container">
-    <a class="wordmark" href="index.html"><h1>DANE</h1></a>
-    <p class="top-note">MODEL PORTFOLIO TEMPLATE</p>
-    <nav class="navbar">
-      <a class="" href="index.html">PORTFOLIO</a>
-      <a class="active" href="contact.html">CONTACT</a>
-      <a class="" href="digitals.html">DIGITALS</a>
-      <a href="https://www.instagram.com/danefortun" target="_blank" rel="noopener">INSTAGRAM</a>
+  <div class="container header-inner">
+    <a class="wordmark" href="index.html">DANE FORTUN</a>
+    <nav class="navbar" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a href="digitals.html">Resume</a>
+      <a class="active" href="contact.html">Contact</a>
+      <a href="assets/Dane-Fortun-Resume.pdf" target="_blank" rel="noopener">PDF Resume</a>
     </nav>
   </div>
 </header>
-<main>
 
-<section class="contact-grid fade-in">
-  <div class="panel">
-    <h2>CONTACT</h2>
-    <p>Use this page as a ready-to-edit booking template. The form below is set up as a visual front end for now. When you are ready later, you can wire it to Formspree, Netlify Forms, EmailJS, or your Flask backend.</p>
-    <form class="form-grid" action="mailto:danefortun23@gmail.com" method="post" enctype="text/plain">
-      <input class="input" type="text" name="name" placeholder="Your Name" required>
-      <input class="input" type="email" name="email" placeholder="Your Email" required>
-      <input class="input" type="text" name="subject" placeholder="Subject" required>
-      <textarea name="message" placeholder="Your Message" required></textarea>
-      <button class="button" type="submit">Send Message</button>
-    </form>
-    <div class="direct-links">
-      <a href="mailto:danefortun23@gmail.com">Email</a>
-      <a href="https://www.instagram.com/danefortun" target="_blank" rel="noopener">Instagram</a>
+<main class="container">
+  <section class="contact-hero fade-in">
+    <div>
+      <p class="eyebrow">Contact</p>
+      <h1>Let’s connect for internships, research, security work, or collaboration.</h1>
+      <p class="hero-text">This page is structured like a clean portfolio contact section, with direct links and a simple message form you can later connect to your preferred form backend.</p>
+    </div>
+  </section>
+
+  <section class="contact-grid fade-in">
+    <div class="panel">
+      <h2>Send a message</h2>
+      <p>The form currently uses a mailto action for simple static hosting. Later, it can be connected to Formspree, Netlify Forms, EmailJS, or your own backend.</p>
+      <form class="form-grid" action="mailto:df664@drexel.edu" method="post" enctype="text/plain">
+        <input class="input" type="text" name="name" placeholder="Your name" required>
+        <input class="input" type="email" name="email" placeholder="Your email" required>
+        <input class="input" type="text" name="subject" placeholder="Subject" required>
+        <textarea name="message" placeholder="Your message" required></textarea>
+        <button class="button" type="submit">Send message</button>
+      </form>
+    </div>
+
+    <div class="contact-side">
+      <article class="contact-card panel soft">
+        <h3>Reach out directly</h3>
+        <div class="contact-list">
+          <a href="mailto:df664@drexel.edu">df664@drexel.edu</a>
+          <a href="https://linkedin.com/in/danefortun" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://github.com/danefortun" target="_blank" rel="noopener">GitHub</a>
+          <span>Easton, PA • Philadelphia, PA</span>
+        </div>
+      </article>
+      <article class="contact-photo-card">
+        <img src="assets/danesuit2.png" alt="Dane Fortun wearing a suit outdoors">
+      </article>
+      <article class="contact-photo-card secondary">
+        <img src="assets/danebw3.jpg" alt="Black and white portrait of Dane Fortun">
+      </article>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p>© <span id="year"></span> Dane Fortun</p>
+    <div class="footer-links">
+      <a href="https://linkedin.com/in/danefortun" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/danefortun" target="_blank" rel="noopener">GitHub</a>
+      <a href="mailto:df664@drexel.edu">df664@drexel.edu</a>
     </div>
   </div>
-  <div class="contact-cards">
-    <img src="assets/contactcarddane.png" alt="Contact card 1">
-    <img src="assets/contactcarddane2.png" alt="Contact card 2">
-    <img src="assets/contactcarddane3.png" alt="Contact card 3">
-  </div>
-</section>
-
-</main>
-<footer class="site-footer">STATIC HTML TEMPLATE READY FOR SIMPLE WEB HOSTING</footer>
+</footer>
 </div>
 <script src="main.js"></script>
 </body>
