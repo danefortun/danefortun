@@ -2,7 +2,7 @@
 
 I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite or VALORANT. 
 <br><br>
-I honestly don't have much more to say, if you'd like to know more about me whether it be in the professional or personal aspects, please look at these two links.
+If you'd like to know more about me, whether professionally or personally, please check out these two links.
 <br><br>
 <a href="https://www.danefortun.com/personal.html">Personal</a> | <a href="https://www.danefortun.com/professional.html">Professional</a> 
 <!--
