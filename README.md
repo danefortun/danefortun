@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Dane👋
+
+I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite or VALORANT. 
+<br><br>
 
 <!--
 **danefortun/danefortun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
