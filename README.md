@@ -2,6 +2,10 @@
 
 I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite or VALORANT. 
 <br><br>
+I am a self-taught programmer and built an entire front-end for my passion project, BiteSwipe, a dietary food discovery app. I dabbled a little in the back-end, but I am still learning and _very_ new to the back-end aspect of things. I would say that I am more interested in front-end than anything else, but back-end is super interesting to me, and I am very open to learning more about it.
+<br><br>
+My main languages so far are HTML (low/mid intermediate), CSS (low/mid intermediate), JavaScript & Python (mid beginner)
+<br><br>
 If you'd like to know more about me, whether professionally or personally, please check out these two links.
 <br><br>
 <a href="https://www.danefortun.com/personal.html">Personal</a> | <a href="https://www.danefortun.com/professional.html">Professional</a> 
