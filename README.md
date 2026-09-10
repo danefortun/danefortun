@@ -4,7 +4,7 @@ I am a Senior at Drexel University, a transfer from Northampton Community Colleg
 <br><br>
 I honestly don't have much more to say, if you'd like to know more about me whether it be in the professional or personal aspects, please look at these two links.
 <br><br>
-<a href="danefortun.com/personal.html">Personal</a> | <a href="danefortun.com/professional.html">Professional</a> 
+<a href="https://www.danefortun.com/personal.html">Personal</a> | <a href="https://www.danefortun.com/professional.html">Professional</a> 
 <!--
 **danefortun/danefortun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
