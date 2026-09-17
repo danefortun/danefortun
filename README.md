@@ -1,6 +1,6 @@
 ## Hi there, I'm Dane👋
 
-I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite or VALORANT. 
+I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite (top 2,000 worldwide) or VALORANT (top 400 in North America).
 <br><br>
 I am a self-taught programmer and built an entire front-end for my passion project, BiteSwipe, a dietary food discovery app. I dabbled a little in the back-end, but I am still learning and _very_ new to the back-end aspect of things. I would say that I am more interested in front-end than anything else, but back-end is super interesting to me, and I am very open to learning more about it.
 <br><br>
