@@ -1,25 +1,15 @@
-## Hi there, I'm Dane👋
+## Hi, I'm Dane 👋
 
-I am a Senior at Drexel University, a transfer from Northampton Community College ('25). I often spend my time playing video games, such as Fortnite (top 1,200 worldwide) or VALORANT (top 500 in North America).
-<br><br>
-I am a self-taught programmer and built an entire front-end for my passion project, BiteSwipe, a dietary food discovery app. I dabbled a little in the back-end, but I am still learning and _very_ new to the back-end aspect of things. I would say that I am more interested in front-end than anything else, but back-end is super interesting to me, and I am very open to learning more about it.
-<br><br>
-My main languages so far are HTML & CSS (low/mid intermediate) and JavaScript & Python (mid beginner)
-<br><br>
-If you'd like to know more about me, whether professionally or personally, please check out these two links.
-<br><br>
-<a href="https://www.danefortun.com/personal.html">Personal</a> | <a href="https://www.danefortun.com/professional.html">Professional</a> 
-<!--
-**danefortun/danefortun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a senior at Drexel University studying Computer Information and Security, with a concentration in Computing Security. I transferred from Northampton Community College, where I graduated with honors in 2025. I currently work as a full-stack developer at Intealth.
+I enjoy building interfaces people want to use and understanding the systems and security behind them. Front-end development first got me into programming; projects and production work have since pulled me deeper into the back end, testing, and application security.
+What I'm working on
+- Intealth: Contributing to production development for the World Directory of Medical Schools and Pathways, building automated tests, and researching security controls for agentic AI applications.
+- BiteSwipe: Co-founded a dietary-friendly food discovery app. Built 12+ user-facing features with Flask, JavaScript, and HTML/CSS, then identified and fixed SQL injection, XSS, and input-validation issues.
+- Enterprise network: Led a Cisco-based network build with 5+ VLANs, ACLs, inter-VLAN routing, and redundancy.
+Tools I use
+Languages: Python, JavaScript, TypeScript, HTML/CSS
+Frameworks and tools: Flask, Node.js, Git, Linux, Wireshark, Figma
+Beyond code
+I served as Student Senate President and helped secure a $35,000 grant for student life initiatives. I've also competed at a high level in Fortnite (top 1,200 worldwide) and VALORANT (top 500 in North America). Games have been a big part of my life since the Xbox 360 days.
+Find out more
+Professional portfolio · Personal side · LinkedIn · Email
