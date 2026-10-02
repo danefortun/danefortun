@@ -36,7 +36,7 @@ I currently work as a full-stack developer at Intealth, contributing to producti
 
 ## Beyond Code
 
-I served as Student Senate President and helped secure a $35,000 grant for student life initiatives. I've also competed in Fortnite (top 1,200 worldwide) and VALORANT (top 500 in North America). Games have been part of my life since the Xbox 360 days.
+I served as Student Senate President and helped secure a $35,000 grant for student life initiatives. I've also competed in Fortnite (top 800 worldwide) and VALORANT (top 500 in North America). Games have been part of my life since the Xbox 360 days.
 
 ## Connect With Me
 
