@@ -12,6 +12,7 @@ I currently work as a full-stack developer at Intealth, contributing to producti
 
 - **BiteSwipe** — Co-founded a dietary-friendly food discovery app and built 12+ user-facing features with Flask, JavaScript, and HTML/CSS. Identified and fixed SQL injection, XSS, and input-validation issues.
 - **Demo Enterprise Network** — Led a Cisco-based network build with 5+ VLANs, ACLs, inter-VLAN routing, and redundancy to improve segmentation and resilience.
+- **WDOMS Redesign** — TBD
 
 ---
 
