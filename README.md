@@ -12,7 +12,7 @@ I currently work as a full-stack developer at Intealth, contributing to producti
 
 - **BiteSwipe** — Co-founded a dietary-friendly food discovery app and built 12+ user-facing features with Flask, JavaScript, and HTML/CSS. Identified and fixed SQL injection, XSS, and input-validation issues.
 - **Demo Enterprise Network** — Led a Cisco-based network build with 5+ VLANs, ACLs, inter-VLAN routing, and redundancy to improve segmentation and resilience.
-- **ECFMG/WDOMS Subscription Dashboard · Figma** — Redesigned an identity verification interface in Figma into a subscription management dashboard. Updated sidebar navigation and organized the workspace into messaging, transactions, and activity logs. Added a dedicated application details panel with an Edit action and adapted the progress tracker for payment requests. Refined typography, spacing, and layout to highlight account information and key actions.
+- **ECFMG/WDOMS Subscription Dashboard** — Redesigned an identity verification interface in Figma into a subscription management dashboard. Updated sidebar navigation and organized the workspace into messaging, transactions, and activity logs. Added a dedicated application details panel with an Edit action and adapted the progress tracker for payment requests. Refined typography, spacing, and layout to highlight account information and key actions.
 ---
 
 ## Languages
