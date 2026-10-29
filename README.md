@@ -40,4 +40,4 @@ I served as Student Senate President and helped secure a $35,000 grant for stude
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/danefortun) · [Professional Portfolio](https://www.danefortun.com/professional.html) · [Personal Page](https://www.danefortun.com/personal.html) · [Email](mailto:df664@drexel.edu)
+[LinkedIn](https://www.linkedin.com/in/danefortun) · [Professional Portfolio](https://www.danefortun.com/#/professional.html) · [Personal Page](https://www.danefortun.com/#/personal.html) · [Email](mailto:df664@drexel.edu)
